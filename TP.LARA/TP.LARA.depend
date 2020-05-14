@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1589468823 source:c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<windows.h>
+	<clocale>
+	"Struct.h"
+	"PltPrototipos.h"
+	"CltPrototipos.h"
+	"PedPrototipos.h"
+	"CnfPrototipos.h"
+	"Validaciones.h"
+	"Clientes.h"
+	"Platos.h"
+	"Pedidos.h"
+	"Configuracion.h"
+	"MenuPincipal.h"
+	"SubMenuPlatos.h"
+	"SubMenuClientes.h"
+	"SubMenuPedidos.h"
+	"SubMenuConfiguracion.h"
+
+1589057326 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\pltprototipos.h
+
+1589394004 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\platos.h
+
+1589333170 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\submenuplatos.h
+
+1589417962 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\menupincipal.h
+
+1589416840 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\pedidos.h
+
+1589338851 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\struct.h
+
+1589470061 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\validaciones.h
+
+1589310114 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\cltprototipos.h
+
+1589401656 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\clientes.h
+
+1589309502 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\submenuclientes.h
+
+1589310367 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\pedprototipos.h
+
+1589338236 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\submenupedidos.h
+
+1589469376 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\cnfprototipos.h
+
+1589470164 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\configuracion.h
+
+1589419279 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\appgastronico\tp.lara\submenuconfiguracion.h
+
